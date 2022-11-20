@@ -6,12 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ramazandogna" target="blank"><img src="https://img.shields.io/twitter/follow/ramazandogna?logo=twitter&style=for-the-badge" alt="ramazandogna" /></a> </p>
 
--  🌱 I’m currently learning **React, Tailwind and CSS 😊**
+-  🌱 I’m currently learning **React, Javascript, Tailwind and CSS 👨🏻‍💻**
 
 -  📝 I regularly write articles on [ramazandogna.com](ramazandogna.com)
 
--  📫 How to reach me **doganrmzn40@gmail.com**
-
+-  📫 How to reach me **[doganrmzn40@gmail.com]**(mailto:doganrmzn40@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ramazandogna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramazandogna" height="30" width="40" /></a>
