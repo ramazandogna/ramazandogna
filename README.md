@@ -10,7 +10,7 @@
 
 -  📝 I regularly write articles on [ramazandogna.com](ramazandogna.com)
 
--  📫 How to reach me **[doganrmzn40@gmail.com]**(mailto:doganrmzn40@gmail.com)
+-  📫 How to reach me **[doganrmzn40@gmail.com](mailto:doganrmzn40@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ramazandogna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramazandogna" height="30" width="40" /></a>
