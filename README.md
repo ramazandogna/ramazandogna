@@ -11,7 +11,7 @@
 
 -  🌱 I’m currently learning **React, Javascript, Tailwind and CSS 👨🏻‍💻**
 
--  📝 I regularly write articles about self improve on [umutvadi.com](umutvadi.com](https://umutvadi.com/kisisel-gelisim)
+-  📝 I regularly write articles about self improve on [umutvadi.com](https://umutvadi.com/kisisel-gelisim)
 
 -  📫 How to reach me [doganrmzn40@gmail.com](mailto:doganrmzn40@gmail.com)
 <h3 align="left">Connect with me:</h3>
