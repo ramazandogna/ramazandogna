@@ -29,4 +29,3 @@
       <img width="49%" heigh="180em"  src="https://github-readme-stats.vercel.app/api?username=ramazandogna&theme=dark&show_icons=true&count_private=true)"/>
       <img width="50%" heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazandogna&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true">
   
-![snake gif](https://github.com/ramazandogna/ramazandogna/blob/output/github-contribution-grid-snake.svg)
