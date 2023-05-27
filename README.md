@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ramazan Doğan. I'm a frontend developer</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey 🇹🇷</h3>
-## 💫 About Me:
 
+## 💫 About Me:
 I am developing myself in the field of frontend. I'm currently coding with React.js. </br> I'm exciting to learning new things and i want to the continue this..
 
 ## 🌐 Socials:
