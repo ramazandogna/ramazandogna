@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Turkey 🇹🇷</h3>
 
 ## 💫 About Me:
-I am developing myself in the field of frontend. I'm currently coding with React.js. </br> I'm exciting to learning new things and i want to the continue this..
+I am improving myself in the field of frontend development. I'm currently coding with React.js. </br> I'm exciting to learning new things and i want to the continue this..
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramazandogna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramazandogna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ramazandogna)
