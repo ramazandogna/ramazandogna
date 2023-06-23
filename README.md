@@ -10,9 +10,9 @@ I am improving myself in the field of frontend development. I'm currently coding
 </div>
 
 <div align=center>
-  <a href="https://pokepokeapp.netlify.app/"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197210-1c744c7d-7dea-450f-918d-30271c96d7de.png"></a>
-  <a href="https://movie-api-app-demo.netlify.app/"></a>
-  <a href="https://react-portfoilo-demo.netlify.app/"><img width=150 src="https://user-images.githubusercontent.com/89473605/240504218-82581570-4e57-4a34-a1e9-1e05670cbcbb.png"></a>
+  <a href="https://pokepokeapp.netlify.app/"><img width=150 src="https://github.com/ramazandogna/pokepoke-app/blob/main/src/assets/img/Screenshots/homepage-1.png"></a>
+  <a href="https://movie-api-app-demo.netlify.app/"><img width=150 src="https://github.com/ramazandogna/movie-api-app/blob/main/src/assets/images/watchlist-1.png"></a>
+  <a href="https://react-portfoilo-demo.netlify.app/"><img width=150 src="https://github.com/ramazandogna/portfolio-react-dem/blob/main/src/assets/img/homepage-first-section.png"></a>
 </div>
 
 <br>
@@ -49,7 +49,7 @@ I am improving myself in the field of frontend development. I'm currently coding
         <img src="https://icons8.com/icon/D2Hi2VkJSi33/html-5" width=50></a>
         <img src="https://icons8.com/icon/NfbyHexzVEDk/react" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
-        <img src="https://icons8.com/icon/jD-fJzVguBmw/redux" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/redux.png" width=50></a>
         <img src="https://icons8.com/icon/nBeuei22ZvUb/canva" width=50></a>
         </td>
     </tr>
