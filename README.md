@@ -53,8 +53,7 @@ I am improving myself in the field of frontend development. I'm currently coding
         <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
         <img src="https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
-        
+        <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a> 
         </td>
     </tr>
 </table>
@@ -68,7 +67,7 @@ I am improving myself in the field of frontend development. I'm currently coding
     </tr>
         <tr>
         <td colspan="8">
-        <img src="hhttps://img.icons8.com/?size=512&id=13664&format=png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=13664&format=png" width=50></a>
         <img src="https://img.icons8.com/?size=512&id=PDn37mC1QXV6&format=png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/canva.png" width=50></a>
         </td>
