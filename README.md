@@ -10,9 +10,9 @@ I am improving myself in the field of frontend development. I'm currently coding
 </div>
 
 <div align=center>
-  <a href="https://pokepokeapp.netlify.app/"><img width=375 src="https://github.com/ramazandogna/pokepoke-app/blob/main/src/assets/img/Screenshots/homepage-1.png"></a>
-  <a href="https://movie-api-app-demo.netlify.app/"><img width=375 src="https://github.com/ramazandogna/movie-api-app/blob/main/src/assets/images/watchlist-1.png"></a>
-  <a href="https://react-portfoilo-demo.netlify.app/"><img width=375 src="https://github.com/ramazandogna/portfolio-react-dem/blob/main/src/assets/img/homepage-first-section.png"></a>
+  <a href="https://pokepokeapp.netlify.app/"><img width=50% src="https://github.com/ramazandogna/pokepoke-app/blob/main/src/assets/img/Screenshots/homepage-1.png"></a>
+  <a href="https://movie-api-app-demo.netlify.app/"><img width=50% src="https://github.com/ramazandogna/movie-api-app/blob/main/src/assets/images/watchlist-1.png"></a>
+  <a href="https://react-portfoilo-demo.netlify.app/"><img width=50% src="https://github.com/ramazandogna/portfolio-react-dem/blob/main/src/assets/img/homepage-first-section.png"></a>
 </div>
 
 <br>
@@ -43,15 +43,14 @@ I am improving myself in the field of frontend development. I'm currently coding
         <tr>
         <td colspan="8">
         <img src="https://img.icons8.com/color/480/000000/redux.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/react.png" width=50></a>
+        <img src="https://icons8.com/icon/wPohyHO_qO1a/react.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/react.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/tailwind.png" width=50></a>
+        <img src="https://icons8.com/icon/WoopfRcDj3RF/tailwind-css.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/canva.png" width=50></a>
-        
+        <img src="https://icons8.com/icon/u9R54eMKS8fw/github.png" width=50></a>
         </td>
     </tr>
 </table>
