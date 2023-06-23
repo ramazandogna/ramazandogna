@@ -1,7 +1,8 @@
 <h1 align="center">
   Hey 👋, I'm Ramazan Doğan.
 </h1> 
-I am improving myself in the field of frontend development. I'm currently coding with React.js. </br> I'm exciting to learning new things and i want to the continue this..
+I am actively honing my skills in the realm of frontend development, focusing primarily on React.js. I am proficient in utilizing various React libraries and tools such as Redux Toolkit, ContextAPI, Hooks, Router, and Axios. Furthermore, I possess a strong command of CSS and have expertise in employing frameworks such as Tailwind and Bootstrap. With my knowledge of SEO, I am capable of developing high-performance web applications that are optimized for search engines. I am eagerly seeking opportunities to join a collaborative work environment where I can both contribute and continue learning from others.
+
 <br>
 <br>
 
