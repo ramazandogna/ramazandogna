@@ -97,7 +97,3 @@ I am improving myself in the field of frontend development. I'm currently coding
         </td>
     </tr>
 </table>
-
-<div align=center>
-[![](https://visitcount.itsvg.in/api?id=ramazandogna&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
