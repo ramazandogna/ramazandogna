@@ -12,12 +12,14 @@ I am actively honing my skills in the realm of frontend development, focusing pr
 
 <div align="center">
   <a href="https://pokepokeapp.netlify.app/"><img width="45%" src="https://github.com/ramazandogna/pokepoke-app/blob/main/src/assets/img/Screenshots/homepage-1.png"></a>
-  <a href="https://movie-api-app-demo.netlify.app/"><img width="45%" src="https://github.com/ramazandogna/movie-api-app/blob/main/src/assets/images/watchlist-1.png"></a>
 </div>
 
 <div align="center">
-  <a href="https://react-portfoilo-demo.netlify.app/"><img width="90%" src="https://github.com/ramazandogna/portfolio-react-dem/blob/main/src/assets/img/homepage-first-section.png"></a>
+   <a href="https://react-portfoilo-demo.netlify.app/"><img width="90%" src="https://github.com/ramazandogna/portfolio-react-dem/blob/main/src/assets/img/homepage-first-section.png"></a>
+  <a href="https://movie-api-app-demo.netlify.app/"><img width="45%" src="https://github.com/ramazandogna/movie-api-app/blob/main/src/assets/images/watchlist-1.png"></a>
 </div>
+
+
 
 
 <br>
