@@ -50,7 +50,9 @@ I am actively honing my skills in the realm of frontend development, focusing pr
         <img src="https://img.icons8.com/?size=512&id=u9R54eMKS8fw&format=png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/redux.png" width=50></a>
         <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
+        <img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
         <img src="https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
