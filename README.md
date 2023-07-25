@@ -48,16 +48,16 @@ I am actively honing my skills in the realm of frontend development, focusing pr
         <tr>
         <td colspan="8">
          <td colspan="8">
-        [![React](https://img.icons8.com/?size=512&id=u9R54eMKS8fw&format=png)](#)
-        [![Redux](https://img.icons8.com/color/480/000000/redux.png)](#)
-[![Icon 1](https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png)](#)
-[![Icon 2](https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png)](#)
-[![JavaScript](https://img.icons8.com/color/480/000000/javascript.png)](#)
-[![Icon 3](https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png)](#)
-[![Bootstrap](https://img.icons8.com/color/480/000000/bootstrap.png)](#)
-[![Icon 4](https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png)](#)
-[![CSS](https://img.icons8.com/color/480/000000/css3.png)](#)
-[![HTML](https://img.icons8.com/color/480/000000/html-5.png)](#)
+        [<img src="https://img.icons8.com/?size=512&id=u9R54eMKS8fw&format=png" width=50>](#)
+[<img src="https://img.icons8.com/color/480/000000/redux.png" width=50>](#)
+[<img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width=50>](#)
+[<img src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png" width=50>](#)
+[<img src="https://img.icons8.com/color/480/000000/javascript.png" width=50>](#)
+[<img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width=50>](#)
+[<img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50>](#)
+[<img src="https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png" width=50>](#)
+[<img src="https://img.icons8.com/color/480/000000/css3.png" width=50>](#)
+[<img src="https://img.icons8.com/color/480/000000/html-5.png" width=50>](#)
         </td>
         </td>
     </tr>
