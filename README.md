@@ -47,26 +47,18 @@ I am actively honing my skills in the realm of frontend development, focusing pr
     </tr>
         <tr>
         <td colspan="8">
+         <td colspan="8">
         [![React](https://img.icons8.com/?size=512&id=u9R54eMKS8fw&format=png)](#)
-        React
         [![Redux](https://img.icons8.com/color/480/000000/redux.png)](#)
-        Redux
 [![Icon 1](https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png)](#)
-Açıklama 1
 [![Icon 2](https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png)](#)
-Açıklama 2
 [![JavaScript](https://img.icons8.com/color/480/000000/javascript.png)](#)
-JavaScript
 [![Icon 3](https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png)](#)
-Açıklama 3
 [![Bootstrap](https://img.icons8.com/color/480/000000/bootstrap.png)](#)
-Bootstrap
 [![Icon 4](https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png)](#)
-Açıklama 4
 [![CSS](https://img.icons8.com/color/480/000000/css3.png)](#)
-CSS
 [![HTML](https://img.icons8.com/color/480/000000/html-5.png)](#)
-HTML
+        </td>
         </td>
     </tr>
 </table>
