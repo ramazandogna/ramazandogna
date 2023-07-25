@@ -31,9 +31,9 @@ I am actively honing my skills in the realm of frontend development, focusing pr
     </tr>
         <tr>
         <td colspan="8">
-        <img src="[https://img.icons8.com/color/480/000000/twitter.png](https://twitter.com/ramazandogna)" width=50></a>     
-        <img src="[https://img.icons8.com/color/480/000000/instagram.png](https://www.instagram.com/ramazandogna/)" width=50></a>     
-        <img src="[https://img.icons8.com/color/480/000000/linkedin.png](https://www.linkedin.com/in/ramazandogna/)" width=50></a>
+        <img src="[https://img.icons8.com/color/480/000000/twitter.png](https://twitter.com/ramazandogna)" width=50></img>     
+        <img src="[https://img.icons8.com/color/480/000000/instagram.png](https://www.instagram.com/ramazandogna/)" width=50></img>     
+        <img src="[https://img.icons8.com/color/480/000000/linkedin.png](https://www.linkedin.com/in/ramazandogna/)" width=50></img>
         </td>
     </tr>
 </table>
