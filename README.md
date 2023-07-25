@@ -31,9 +31,9 @@ I am actively honing my skills in the realm of frontend development, focusing pr
     </tr>
         <tr>
         <td colspan="8">
-        <img src="https://img.icons8.com/color/480/000000/twitter.png" width=50></a>     
-        <img src="https://img.icons8.com/color/480/000000/instagram.png" width=50></a>     
-        <img src="https://img.icons8.com/color/480/000000/linkedin.png" width=50></a>
+        <img src="[https://img.icons8.com/color/480/000000/twitter.png](https://twitter.com/ramazandogna)" width=50></a>     
+        <img src="[https://img.icons8.com/color/480/000000/instagram.png](https://www.instagram.com/ramazandogna/)" width=50></a>     
+        <img src="[https://img.icons8.com/color/480/000000/linkedin.png](https://www.linkedin.com/in/ramazandogna/)" width=50></a>
         </td>
     </tr>
 </table>
@@ -47,16 +47,26 @@ I am actively honing my skills in the realm of frontend development, focusing pr
     </tr>
         <tr>
         <td colspan="8">
-        <img src="https://img.icons8.com/?size=512&id=u9R54eMKS8fw&format=png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/redux.png" width=50></a>
-        <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width=50></a>
-        <img src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
-        <img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
-        <img src="https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a> 
+        [![React](https://img.icons8.com/?size=512&id=u9R54eMKS8fw&format=png)](#)
+        React
+        [![Redux](https://img.icons8.com/color/480/000000/redux.png)](#)
+        Redux
+[![Icon 1](https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png)](#)
+Açıklama 1
+[![Icon 2](https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png)](#)
+Açıklama 2
+[![JavaScript](https://img.icons8.com/color/480/000000/javascript.png)](#)
+JavaScript
+[![Icon 3](https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png)](#)
+Açıklama 3
+[![Bootstrap](https://img.icons8.com/color/480/000000/bootstrap.png)](#)
+Bootstrap
+[![Icon 4](https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png)](#)
+Açıklama 4
+[![CSS](https://img.icons8.com/color/480/000000/css3.png)](#)
+CSS
+[![HTML](https://img.icons8.com/color/480/000000/html-5.png)](#)
+HTML
         </td>
     </tr>
 </table>
