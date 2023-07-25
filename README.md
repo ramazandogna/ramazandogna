@@ -46,7 +46,6 @@ I am actively honing my skills in the realm of frontend development, focusing pr
         </td>
     </tr>
         <tr>
-        <td colspan="8">
          <td colspan="8">
        <img src="https://img.icons8.com/?size=512&id=u9R54eMKS8fw&format=png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/redux.png" width=50></a>
