@@ -1,7 +1,7 @@
-![image](https://github.com/ramazandogna/ramazandogna/assets/95189647/99222f49-bca0-4d18-80ce-cc7339e60078)<h1 align="center">
+<h1 align="center">
   Hey 👋, It's Ramazan
 </h1> 
-I am actively honing my skills in the realm of frontend development, focusing primarily on React.js. I am proficient in utilizing various React libraries and tools such as Redux Toolkit, ContextAPI, Hooks, Router, and Axios. Furthermore, I possess a strong command of CSS and have expertise in employing frameworks such as Tailwind and Bootstrap. With my knowledge of SEO, I am capable of developing high-performance web applications that are optimized for search engines. I am eagerly seeking opportunities to join a collaborative work environment where I can both contribute and continue learning from others.
+I am actively honing my skills in the realm of web development, focusing primarily on React.js. I am proficient in utilizing various React libraries and tools such as Redux Toolkit, ContextAPI, Hooks, Router, and Axios. Furthermore, I possess a strong command of CSS and have expertise in employing frameworks such as Tailwind and Bootstrap. With my knowledge of SEO, I am capable of developing high-performance web applications that are optimized for search engines. I am eagerly seeking opportunities to join a collaborative work environment where I can both contribute and continue learning from others.
 
 <br>
 <br>
