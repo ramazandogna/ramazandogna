@@ -6,22 +6,6 @@ I am actively honing my skills in the realm of web development, focusing primari
 <br>
 <br>
 
-<div>
-    <h2 align=center> My Featured Applications </h2>
-</div>
-
-<div align="center">
-  <a href="https://pokepokeapp.netlify.app/"><img width="45%" src="https://github.com/ramazandogna/pokepoke-app/blob/main/src/assets/img/Screenshots/homepage-1.png"></a>
- <a href="https://ramazandogna.netlify.app/"><img width="45%" src="https://github.com/ramazandogna/mini-portfolio/blob/master/src/assets/screenshots/home-screen.png"></a>
-   <a href="https://react-portfoilo-demo.netlify.app/"><img width="45%" src="https://github.com/ramazandogna/portfolio-react-dem/blob/main/src/assets/img/homepage-first-section.png"></a>
-  <a href="https://movie-api-app-demo.netlify.app/"><img width="45%" src="https://github.com/ramazandogna/movie-api-app/blob/main/src/assets/images/watchlist-1.png"></a>
-</div>
-
-
-
-
-<br>
-
 <div align=center>
 <table>
     <tr>
