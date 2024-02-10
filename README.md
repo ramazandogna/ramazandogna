@@ -10,7 +10,7 @@
 <table>
     <tr>
         <td colspan="8">
-        <strong><samp>Me on Social:</samp></strong>
+        <strong><samp>Social</samp></strong>
         </td>
     </tr>
         <tr>
@@ -26,7 +26,7 @@
 <table>
     <tr>
         <td colspan="8">
-        <strong><samp>Skills:</samp></strong>
+        <strong><samp>Skills</samp></strong>
         </td>
     </tr>
         <tr>
