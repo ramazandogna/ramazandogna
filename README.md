@@ -10,7 +10,7 @@
 <table>
     <tr>
         <td colspan="8">
-        <strong><samp>Social:</samp></strong>
+        <strong><samp>Me on Social:</samp></strong>
         </td>
     </tr>
         <tr>
@@ -26,7 +26,7 @@
 <table>
     <tr>
         <td colspan="8">
-        <strong><samp>Main Skills:</samp></strong>
+        <strong><samp>Skills:</samp></strong>
         </td>
     </tr>
         <tr>
@@ -42,23 +42,8 @@
        <a href="#"><img src="https://img.icons8.com/?size=512&id=WoopfRcDj3RF&format=png" width=50></a>
        <a href="#"><img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
        <a href="#"><img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
+       <a href="#"><img src="https://img.icons8.com/?size=512&id=PDn37mC1QXV6&format=png" width=50></a>
         </td>
-        </td>
-    </tr>
-</table>
-
-<div align=center>
-<table>
-    <tr>
-        <td colspan="8">
-        <strong><samp>Side Skills:</samp></strong>
-        </td>
-    </tr>
-        <tr>
-        <td colspan="8">
-        <a href="#"><img src="https://img.icons8.com/?size=512&id=13664&format=png" width=50></a>
-        <a href="#"><img src="https://img.icons8.com/?size=512&id=PDn37mC1QXV6&format=png" width=50></a>
-        <a href="#"><img src="https://img.icons8.com/color/480/000000/canva.png" width=50></a>
         </td>
     </tr>
 </table>
