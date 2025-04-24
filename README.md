@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ramazan</h1>
+<h1 align="center">Hey 👋, Its Ramazan</h1>
 
 <p align="center">
   I'm a Computer Engineering graduate with 2+ years of experience in frontend development, especially with React and JavaScript. I'm passionate about building fast, maintainable
